@@ -1,0 +1,13 @@
+C:\Users\kuruc\OneDrive\Рабочий стол\ConsoleApp1\ConsoleApp2\obj\Debug\netcoreapp3.1\LABA2a.csprojAssemblyReference.cache
+C:\Users\kuruc\OneDrive\Рабочий стол\ConsoleApp1\ConsoleApp2\obj\Debug\netcoreapp3.1\LABA2a.csproj.CoreCompileInputs.cache
+C:\Users\kuruc\OneDrive\Рабочий стол\ConsoleApp1\ConsoleApp2\obj\Debug\netcoreapp3.1\LABA2a.AssemblyInfoInputs.cache
+C:\Users\kuruc\OneDrive\Рабочий стол\ConsoleApp1\ConsoleApp2\obj\Debug\netcoreapp3.1\LABA2a.AssemblyInfo.cs
+C:\Users\kuruc\OneDrive\Рабочий стол\ConsoleApp1\ConsoleApp2\bin\Debug\netcoreapp3.1\LABA2a.exe
+C:\Users\kuruc\OneDrive\Рабочий стол\ConsoleApp1\ConsoleApp2\bin\Debug\netcoreapp3.1\LABA2a.deps.json
+C:\Users\kuruc\OneDrive\Рабочий стол\ConsoleApp1\ConsoleApp2\bin\Debug\netcoreapp3.1\LABA2a.runtimeconfig.json
+C:\Users\kuruc\OneDrive\Рабочий стол\ConsoleApp1\ConsoleApp2\bin\Debug\netcoreapp3.1\LABA2a.runtimeconfig.dev.json
+C:\Users\kuruc\OneDrive\Рабочий стол\ConsoleApp1\ConsoleApp2\bin\Debug\netcoreapp3.1\LABA2a.dll
+C:\Users\kuruc\OneDrive\Рабочий стол\ConsoleApp1\ConsoleApp2\bin\Debug\netcoreapp3.1\LABA2a.pdb
+C:\Users\kuruc\OneDrive\Рабочий стол\ConsoleApp1\ConsoleApp2\obj\Debug\netcoreapp3.1\LABA2a.dll
+C:\Users\kuruc\OneDrive\Рабочий стол\ConsoleApp1\ConsoleApp2\obj\Debug\netcoreapp3.1\LABA2a.pdb
+C:\Users\kuruc\OneDrive\Рабочий стол\ConsoleApp1\ConsoleApp2\obj\Debug\netcoreapp3.1\LABA2a.genruntimeconfig.cache
